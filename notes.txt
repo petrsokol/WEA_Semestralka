@@ -1,5 +1,6 @@
 Frontend: React
 Backend: Flask python
 
+Jaktože se ten mf ještě nevzdal...
 
 errors logger, rozdelit loggery
